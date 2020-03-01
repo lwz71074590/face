@@ -1,0 +1,1 @@
+from .smoke_detect import detect, get_default_model
