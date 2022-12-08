@@ -2,7 +2,7 @@ asn1crypto==0.24.0
 astroid==2.1.0
 autopep8==1.4.3
 bcrypt==3.1.5
-certifi==2018.11.29
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 cloudpickle==0.6.1
